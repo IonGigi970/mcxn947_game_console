@@ -53,6 +53,7 @@ mcxn947-game-console/
 
 ## State Diagram
 
+<img width="2447" height="1408" alt="Diagram" src="https://github.com/user-attachments/assets/be573cf7-7806-4a16-9b26-5978c260792e" />
 
 
 ## License & Credits
